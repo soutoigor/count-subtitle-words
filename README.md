@@ -3,7 +3,7 @@
 An API to upload `.srt` files and see how many times each word has been said in all subtitle files.
 
 I've created this project to test the [RxJS](https://rxjs-dev.firebaseapp.com/) library and its concepts.  
-Hosted API URL: `https://count-subtitle-words.herokuapp.com`
+You can use it with the hosted API URL: `https://count-subtitle-words.herokuapp.com`
 
 ## Setup
 
